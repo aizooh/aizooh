@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaack-gitundu/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aizooh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacgitundu1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isgitundu@gmail.com)
 
 🎓 Software Engineering Graduate | 💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🛡️ HCIA-Certified Network Professional | 🎮 Game Developer
 
@@ -72,7 +72,7 @@
 ## 📫 Let's Connect!
 - LinkedIn: [Isaac Gitundu](https://www.linkedin.com/in/isaack-gitundu/)
 - GitHub: [aizooh](https://github.com/aizooh)
-- Email: [isaacgitundu1@gmail.com](mailto:isaacgitundu1@gmail.com)
+- Email: [isaacgitundu1@gmail.com](mailto:isgitundu1@gmail.com)
 - Portfolio: [Coming Soon!]() 
 
 ⚡ Fun fact: I can talk about game design patterns and cloud infrastructure with equal enthusiasm!
