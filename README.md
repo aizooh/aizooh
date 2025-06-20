@@ -85,7 +85,7 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/isaack-gitundu/)
 - 💻 [GitHub](https://github.com/aizooh)
-- 📧 [isaacgitundu1@gmail.com](mailto:isaacgitundu1@gmail.com)
+- 📧 [isaacgitundu1@gmail.com](mailto:isgitundu@gmail.com)
 - 🌍 Portfolio: *Coming Soon*
 
 ---
