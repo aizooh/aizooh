@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaack-gitundu/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aizooh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacgitundu1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://aizooh.github.io/portfolio--2/)
+[![Download CV](https://img.shields.io/badge/CV-Download-success?style=for-the-badge&logo=academia&logoColor=white)](./cv.pdf)
 
 🎓 Software Engineering Student | 💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🛡️ HCIA-Certified | 🎮 Game Developer
 
@@ -85,8 +87,9 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/isaack-gitundu/)
 - 💻 [GitHub](https://github.com/aizooh)
-- 📧 [isaacgitundu1@gmail.com](mailto:isgitundu@gmail.com)
-- 🌍 Portfolio: *Coming Soon*
+- 📧 [isaacgitundu1@gmail.com](mailto:isaacgitundu1@gmail.com)
+- 🌍 [Portfolio](https://aizooh.github.io/portfolio--2/)
+- 📄 [Download CV](./cv.pdf)
 
 ---
 
