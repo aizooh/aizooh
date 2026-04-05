@@ -44,7 +44,7 @@ Currently open to roles in **software development, IT support, systems administr
 ### 🧾 Expense Management System
 A full-stack web app for tracking personal and business expenses with user authentication, categorization, and visual reports.
 **Tech:** React · Node.js · Express · MongoDB  
-🔗 [View on GitHub](https://github.com/aizooh/expense-management-system)
+🔗 [View on GitHub](https://github.com/aizooh/expense-tracker)
 
 ### 🌦️ Real-Time Weather Information System
 Fetches and displays live weather data with clean UI and location-based lookups.  
